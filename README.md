@@ -19,7 +19,7 @@ module "vpc" {
 
 See `interface.tf` for additional configurable variables.
 
-## License
+# License
 
 MIT
 
